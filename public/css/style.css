@@ -1,0 +1,47 @@
+#icon-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#icon-text h2 {
+    color: whitesmoke;
+}
+
+.nav-brand {
+    width: 45px;
+}
+
+.mail-wasa {
+    display: flex;
+    flex-direction: column;
+}
+
+#image {
+    width:50px;
+    margin-right: 8px;
+}
+
+#foote {
+    background-color: rgb(219, 219, 219);
+}
+
+.mail, 
+.wasa {
+    display: flex;
+    gap: 10px;
+    padding: 0 10px;
+    justify-content: center;
+    align-items: center;
+    /* background-color: lightcoral; */
+}
+
+.mail-wasa p {
+    color: rgb(247, 247, 247);
+}
+
+/* ICONO */
+#icon {
+    margin-top: -10px;
+}
